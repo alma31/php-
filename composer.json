@@ -1,0 +1,14 @@
+{
+    "name": "alma31/espacedenom",
+    "authors": [
+        {
+            "name": "alma31",
+            "email": "lenni31@neuf.fr"
+        }
+    ],
+    "require": {},
+
+    "autoload" :{
+    	"psr-4":{"alma31\\App\\" : "src/"}
+    }
+}
